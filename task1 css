@@ -1,0 +1,20 @@
+.menu-bar{
+    text-align: center;
+}
+.cup{
+    text-align: center;
+    font-size: 1cm;
+}
+.menu-bar ul li{
+    list-style: none;
+    display: inline-flex;
+    margin: 10px;
+    padding: 10px;
+}
+.menu-bar ul li a{
+    text-decoration: none;
+}
+.image{
+    float: right;
+    margin-top: 1cm;
+}
